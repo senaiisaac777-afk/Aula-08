@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../isaac_2"
+		},
+		{
+			"path": "../atividades php"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PBE_Projetos"
+	}
+}
